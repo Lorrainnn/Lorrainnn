@@ -1,6 +1,6 @@
 <h2> Hi, I'm Lorrainnnnnnnnnn! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<p><em>Third-year CS student of <a href="https://uci.edu/">University of California, Irvine</a><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVwNzM3N2ExdDcybDg0ZjF4ZHM0dGVvbWkzaW9pcWZ0ajQ5M29iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u48zGxF3kJ80XemhJ3/giphy.gif" width="50">
+<p><em>CS undergrad of <a href="https://uci.edu/">UCI. Incoming grad for UCB.(yo why can't I escape from CA? </a><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVwNzM3N2ExdDcybDg0ZjF4ZHM0dGVvbWkzaW9pcWZ0ajQ5M29iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u48zGxF3kJ80XemhJ3/giphy.gif" width="50">
 </br>Actually do love coding and algorithms... tbh, they are logical and make sense to me
 </br>Looking forward to become a SE/MLE or ??? Still learning/exploring:)
 </em></p>
