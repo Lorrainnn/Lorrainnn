@@ -43,17 +43,6 @@ const lor = {
     </td>
     <td width="42%" valign="top">
 
-## Snapshot
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100%" alt="coding" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lorrainnn&show_icons=true&hide_border=true&theme=tokyonight" width="100%" alt="GitHub stats" />
-
-    </td>
-  </tr>
-</table>
 
 ## A few notes
 
