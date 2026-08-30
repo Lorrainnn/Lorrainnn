@@ -1,6 +1,6 @@
 <h2> Hi, I'm Lorrainnnnnnnnnn! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
-<p><em>CS undergrad of UCI. Incoming grad for UCB.</br>(yo why can't I escape from CA?
+<p><em>UCB EECS grad.</br>(yo why can't I escape from CA? From LA-SF
 </br>
 </br>Actually do love coding and algorithms... tbh, they are logical and make sense to me
 </br>Looking forward to become a SE/MLE or ??? Still learning/exploring:)
